@@ -110,6 +110,10 @@ section {
 body {
     line-height: 1;
 }
+.cv {
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+}
 
 ol,
 ul {
